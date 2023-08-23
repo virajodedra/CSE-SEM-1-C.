@@ -10,7 +10,8 @@
 		printf("enter your third number:");
 		scanf("%d",&c);
 		printf("average:");
-		d=(a+b+c)/3;
+                d=(a+b+c)/3;
+
 		printf("%f",d);
 		return 0;
 	}
