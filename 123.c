@@ -32,7 +32,7 @@
      		
 		 }
      	s = a/b;
-     	printf("the answer of division is: %d",s);
+     	printf("the answer of division is: %f",s);
      	
 	 }  
 	 else    {
