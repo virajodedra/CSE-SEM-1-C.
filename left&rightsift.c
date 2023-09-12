@@ -9,5 +9,5 @@
      	 
      	  c=a>>1;
      	  
-     	  printf("%d\n%d",b,c);
+     	  printf("%d\n    %d",b,c);
      }
