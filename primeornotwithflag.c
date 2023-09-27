@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+                                    //very very most imp program........
      void main(){
      	int flag=0,n,i;
      	
