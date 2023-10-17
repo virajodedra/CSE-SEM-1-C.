@@ -14,11 +14,13 @@
    	     	scanf("%d",&a[i]);
 			}
 			
-			 for(i=0;i<n;i++){
+			 
 			 	
-   	     	     printf("Enter the size of an array :");
+   	     	     printf("Enter the you want  to find in array  :");
    	               scanf("%d",&m);
    	               
+   	               
+   	               for(i=0;i<n;i++){
    	     	        if(m==a[i]){
    	     	        	
    	     	        	printf("a[i] :%d",a[i]);
